@@ -4,7 +4,7 @@
 
 
 ## General info
-Für ein Modul zum Gleitschleifen wurde mittels einer Controllino MAXI automatisiert. Mittels der seriellen USB-Schnittstelle wurde die Kommunikation zu einem Raspberry Pi geschaffen, welcher die unterschiedlichen Prozesse des Gleitschleifprozesses steuert.
+Der Gleitschleifprozess wird mittels einer Controllino MAXI automatisiert. Mit Hilfe der seriellen USB-Schnittstelle wird die Kommunikation zu einem Raspberry Pi geschaffen, welcher die unterschiedlichen Prozesse des Gleitschleifprozesses steuert.
 <p align="center">
   <img src="https://github.com/tlucky/controllino_nachbearbeitung/blob/master/images/nachbearbeitung.jpg" width="350" title="Foto">
 </p>
